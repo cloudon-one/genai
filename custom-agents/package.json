@@ -1,5 +1,5 @@
 {
-  "name": "custom-agents9",
+  "name": "custom-agents",
   "version": "1.0.0",
   "description": "Demonstrations of how to use OpenAI's Assistant API in Python and Node.js.",
   "main": "index.js",
@@ -8,16 +8,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ai/custom-agents.git"
-  },
-  "author": "@mor10",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/LinkedInLearning/building-custom-agents-with-the-openai-assistant-api--asi--3366139/issues"
-  },
-  "homepage": "https://github.com/LinkedInLearning/building-custom-agents-with-the-openai-assistant-api--asi--3366139#readme",
-  "dependencies": {
-    "dotenv": "^16.3.1",
-    "openai": "^4.20.0"
+    "url": "git+https://github.com/cloudon-one/genai.git"
   }
 }
