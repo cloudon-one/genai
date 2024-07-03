@@ -1,6 +1,6 @@
 # OpenAI API: Multimodal development with GPT-4o
 
-In this hands-on course you’ll use the OpenAI API to leverage the multimodal capabilities of GPT-4o and function calling to extract text from images, conform the data to JSON, and call functions to save the extracted data to a spreadsheet.
+OpenAI API to leverage the multimodal capabilities of GPT-4o and function calling to extract text from images, conform the data to JSON, and call functions to save the extracted data to a spreadsheet.
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
